@@ -1,0 +1,78 @@
+.box{
+    width:1140px;
+    height:200px;
+    position:absolute;
+    left:150px;
+    top:664.55px;
+    background-color:white;
+    border-radius:10px;
+  }
+  .icon_user{
+    position:absolute;
+    width:55px;
+    height:55px;
+    margin-left:91px;
+    margin-top:46.05px;
+    margin-bottom:72.95px;
+    background-color:white;
+    
+  }
+  
+  .group_user{
+    position:absolute;
+    width:53px;
+    height:65px;
+    margin-left:182.5px;
+    margin-top:41.05px;
+    margin-bottom:67.95px;
+    background-color:white;
+    
+  }
+  
+  .icon_logation{
+    position:absolute;
+    width:55px;
+    height:55px;
+    margin-left:478.5px;
+    margin-top:46.05px;
+    margin-bottom:72.95px;
+    background-color:white;
+  }
+  
+  .group_logation{
+    position:absolute;
+    width:91px;
+    height:65px;
+    margin-left:570px;
+    margin-top:41.05px;
+    margin-bottom:67.95px;
+    background-color:white;
+     
+  }
+  
+  .icon_server{
+    position:absolute;
+    width:55px;
+    height:55px;
+    margin-left:887px;
+    margin-top:46.05px;
+    margin-bottom:72.95px;
+    background-color:white;
+  }
+  
+  .group_server{
+    position:absolute;
+    width:91px;
+    height:65px;
+    margin-left:978.5px;
+    margin-top:41.05px;
+    margin-bottom:67.95px;
+    background-color:white;
+  }
+
+
+
+
+
+  
+  
